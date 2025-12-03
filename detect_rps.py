@@ -5,7 +5,7 @@ import tensorflow as tf
 # ----------------------------
 # 1. Load Model & Classes
 # ----------------------------
-MODEL_PATH = "models/final_rps_model.keras"
+MODEL_PATH = "models/improved_rps_model.keras"
 CLASSES = ["rock", "paper", "scissors"]
 
 print("[INFO] Loading model...")

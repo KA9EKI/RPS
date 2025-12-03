@@ -52,7 +52,7 @@ model = models.Sequential([
     layers.Flatten(),
 
     layers.Dense(128, activation="relu"),
-    layers.Dropout(0.4),
+    layers.Dropout(0.5),
 
     layers.Dense(len(CLASSES), activation="softmax")
 ])
