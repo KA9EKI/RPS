@@ -1,0 +1,9 @@
+tensorflow==2.20.0
+keras==3.10.0
+numpy
+opencv-python
+matplotlib
+scikit-learn
+seaborn
+lime
+scikit-image
